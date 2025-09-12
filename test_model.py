@@ -14,7 +14,7 @@ def query_ollama(prompt):
 #query_ollama(prompt)
 
 
-personas = ["Anxious", "Depressed", "Forgetful", "Impatient"]
+personas = ["Anxious",  "Forgetful"]
 
 for p in personas:
     prompt = f"Persona: {p}\nPatient:"
@@ -23,3 +23,4 @@ for p in personas:
     print("\n")
     
 # python test_model.py
+
