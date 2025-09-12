@@ -4,6 +4,13 @@
 
 The Government of India seeks to improve medical education in rural areas with limited patient access by investing in a VR training system. This project aims to create realistic, persona-driven virtual patients for such a system, using synthetic doctor-patient conversation scripts to train or fine-tune a dialogue model. The model generates patient responses in various personalities—calm, anxious, rude, overly patient, etc.—to simulate real-life scenarios.
 
+## Video OverView
+
+
+
+https://github.com/user-attachments/assets/ff31c31e-9c35-497c-b9a3-43fb1ed732e4
+
+
 Key goals:
 - Train or fine-tune a conversational AI model with provided scripts.
 - Support multiple patient personas.
